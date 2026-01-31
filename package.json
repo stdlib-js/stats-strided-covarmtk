@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-strided-covarmtk",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Calculate the covariance of two strided arrays provided known means and using a one-pass textbook algorithm.",
   "license": "Apache-2.0",
   "author": {
@@ -87,7 +87,6 @@
     "typed",
     "array"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
